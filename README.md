@@ -13,5 +13,3 @@ These are somewhat out of date, since they apply to Travis-CI:
 <https://cpske.github.io/ISP/automation/travis-demo-project>
 
 
-# demo-pyci
-
