@@ -1,6 +1,6 @@
 Continuous Integration Demo
 ============================
-![Unittest Workflow](https://github.com/kulisarawiangin/demo-pyci/actions/workflows/python-app.yml/badge.svg) 
+[![Unittest](https://github.com/kulisarawiangin/demo-pyci/actions/workflows/python-app.yml/badge.svg)](https://github.com/kulisarawiangin/demo-pyci/actions/workflows/python-app.yml)
 [![codecov](https://codecov.io/gh/kulisarawiangin/demo-pyci/coverage.svg?branch=master)](https://app.codecov.io/github/kulisarawiangin/demo-pyci)
 
 
